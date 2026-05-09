@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI Hub</title>
+    <meta name="description" content="一个个人 AI 信息中枢：精选信源、趋势时间线、日报和可解释评分。" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <header class="topbar">
+        <a class="brand" href="#top" aria-label="AI Hub 首页">
+          <span class="brand-mark">AI</span>
+          <span>
+            <strong>AI Hub</strong>
+            <small>Personal intelligence timeline</small>
+          </span>
+        </a>
+        <nav class="tabs" aria-label="主导航">
+          <button class="tab is-active" data-view="curated">精选</button>
+          <button class="tab" data-view="timeline">时间线</button>
+          <button class="tab" data-view="digest">日报</button>
+          <button class="tab" data-view="sources">信源</button>
+        </nav>
+      </header>
+
+      <main id="top">
+        <section class="workspace">
+          <aside class="control-panel" aria-label="筛选">
+            <div class="metric-block">
+              <span class="label">今日精选</span>
+              <strong id="curatedCount">0</strong>
+            </div>
+            <div class="metric-grid">
+              <div>
+                <span class="label">监控信源</span>
+                <strong id="sourceCount">0</strong>
+              </div>
+              <div>
+                <span class="label">更新时间</span>
+                <strong id="updatedAt">--</strong>
+              </div>
+            </div>
+            <label class="search-box">
+              <span>搜索</span>
+              <input id="searchInput" type="search" placeholder="模型、公司、论文、产品" />
+            </label>
+            <div class="filter-group" aria-label="分类筛选">
+              <button class="pill is-active" data-category="all">全部</button>
+              <button class="pill" data-category="model">模型</button>
+              <button class="pill" data-category="product">产品</button>
+              <button class="pill" data-category="industry">行业</button>
+              <button class="pill" data-category="research">研究</button>
+            </div>
+            <div class="note">
+              信源优先，代码负责权重与阈值，模型只适合做摘要、翻译和多维评分。
+            </div>
+          </aside>
+
+          <section class="content-surface" aria-live="polite">
+            <div class="section-head">
+              <div>
+                <p class="eyebrow" id="viewLabel">精选信息</p>
+                <h1 id="viewTitle">值得优先看的 AI 动态</h1>
+              </div>
+              <a class="ghost-link" href="data/news.json">数据源</a>
+            </div>
+            <div id="status" class="status">正在加载...</div>
+            <div id="content"></div>
+          </section>
+        </section>
+      </main>
+    </div>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "OpenAI News",
+    "url": "https://openai.com/news/rss.xml",
+    "tier": "T1",
+    "kind": "official",
+    "category": "model"
+  },
+  {
+    "name": "Google AI",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+    "tier": "T1",
+    "kind": "official",
+    "category": "industry"
+  },
+  {
+    "name": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "tier": "T1.5",
+    "kind": "platform",
+    "category": "product"
+  },
+  {
+    "name": "GitHub AI & ML",
+    "url": "https://github.blog/ai-and-ml/feed/",
+    "tier": "T1.5",
+    "kind": "platform",
+    "category": "product"
+  },
+  {
+    "name": "arXiv cs.AI",
+    "url": "https://export.arxiv.org/rss/cs.AI",
+    "tier": "T2",
+    "kind": "research",
+    "category": "research"
+  },
+  {
+    "name": "arXiv cs.LG",
+    "url": "https://export.arxiv.org/rss/cs.LG",
+    "tier": "T2",
+    "kind": "research",
+    "category": "research"
+  }
+]
