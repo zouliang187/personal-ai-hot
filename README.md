@@ -1,6 +1,6 @@
-# AI Hub
+# AI Hot
 
-一个个人 AI 信息中枢，思路来自 AIHOT：用精选信源做底座，用可解释的代码评分和阈值筛选信息，再用页面呈现精选、时间线、日报和信源分级。
+一个个人 AI 热点新闻站，思路来自 AIHOT：用精选信源做底座，用可解释的代码评分和阈值筛选信息，再用页面呈现精选、时间线、日报和信源分级。
 
 ## 本地运行
 
@@ -19,7 +19,7 @@ npm run serve
 ```bash
 npm run update
 git add data/news.json
-git commit -m "Update AI Hub data"
+git commit -m "Update AI Hot data"
 git push
 ```
 

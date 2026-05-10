@@ -96,7 +96,7 @@ function clusterKey(title) {
 
 async function loadSource(source) {
   const res = await fetch(source.url, {
-    headers: { "user-agent": "Personal AI Hub RSS bot (+https://github.com)" }
+    headers: { "user-agent": "Personal AI Hot RSS bot (+https://github.com)" }
   });
   if (!res.ok) throw new Error(`${source.name}: ${res.status}`);
   const xml = await res.text();

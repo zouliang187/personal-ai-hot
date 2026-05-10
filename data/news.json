@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T16:24:15.316Z",
+  "generatedAt": "2026-05-10T00:19:27.623Z",
   "sources": [
     {
       "name": "OpenAI News",
@@ -73,19 +73,6 @@
       "related": []
     },
     {
-      "id": "SHVnZ2luZyBGYWNlIEJsb2c6aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL2xhYmxhYi1haS1hbWQtZGV2ZWxvcGVyLWhhY2thdGhvbi9jeWJlcnNlY3F3ZW4tNGI",
-      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-      "summary": "",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-      "publishedAt": "2026-05-08T17:41:05.000Z",
-      "source": "Hugging Face Blog",
-      "tier": "T1.5",
-      "sourceKind": "platform",
-      "category": "model",
-      "score": 86,
-      "related": []
-    },
-    {
       "id": "R29vZ2xlIEFJOmh0dHBzOi8vYmxvZy5nb29nbGUvaW5ub3ZhdGlvbi1hbmQtYWkvdGVjaG5vbG9neS9kZXZlbG9wZXJzLXRvb2xzL2V2ZW50LWRyaXZlbi13ZWJob29rcy8",
       "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
       "summary": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
@@ -138,6 +125,19 @@
       "related": []
     },
     {
+      "id": "SHVnZ2luZyBGYWNlIEJsb2c6aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL2xhYmxhYi1haS1hbWQtZGV2ZWxvcGVyLWhhY2thdGhvbi9vbmNvYWdlbnQtb2ZmaWNpYWwtcGFwZXI",
+      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "summary": "",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "publishedAt": "2026-05-09T18:09:28.000Z",
+      "source": "Hugging Face Blog",
+      "tier": "T1.5",
+      "sourceKind": "platform",
+      "category": "product",
+      "score": 84,
+      "related": []
+    },
+    {
       "id": "R29vZ2xlIEFJOmh0dHBzOi8vYmxvZy5nb29nbGUvaW5ub3ZhdGlvbi1hbmQtYWkvcHJvZHVjdHMvZ2VtaW5pLWFwcC9wZXJzb25hbC1pbnRlbGxpZ2VuY2UtbmFuby1iYW5hbmEv",
       "title": "New ways to create personalized images in the Gemini app",
       "summary": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.",
@@ -177,32 +177,6 @@
       "related": []
     },
     {
-      "id": "R2l0SHViIEFJICYgTUw6aHR0cHM6Ly9naXRodWIuYmxvZy9haS1hbmQtbWwvZ2l0aHViLWNvcGlsb3QvaW1wcm92aW5nLXRva2VuLWVmZmljaWVuY3ktaW4tZ2l0aHViLWFnZW50aWMtd29ya2Zsb3dzLw",
-      "title": "Improving token efficiency in GitHub Agentic Workflows",
-      "summary": "",
-      "url": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
-      "publishedAt": "2026-05-07T23:00:00.000Z",
-      "source": "GitHub AI & ML",
-      "tier": "T1.5",
-      "sourceKind": "platform",
-      "category": "product",
-      "score": 81,
-      "related": []
-    },
-    {
-      "id": "R2l0SHViIEFJICYgTUw6aHR0cHM6Ly9naXRodWIuYmxvZy9haS1hbmQtbWwvZ2VuZXJhdGl2ZS1haS9hZ2VudC1wdWxsLXJlcXVlc3RzLWFyZS1ldmVyeXdoZXJlLWhlcmVzLWhvdy10by1yZXZpZXctdGhlbS8",
-      "title": "Agent pull requests are everywhere. Here&#8217;s how to review them.",
-      "summary": "",
-      "url": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
-      "publishedAt": "2026-05-07T19:00:00.000Z",
-      "source": "GitHub AI & ML",
-      "tier": "T1.5",
-      "sourceKind": "platform",
-      "category": "product",
-      "score": 81,
-      "related": []
-    },
-    {
       "id": "R29vZ2xlIEFJOmh0dHBzOi8vYmxvZy5nb29nbGUvcHJvZHVjdHMtYW5kLXBsYXRmb3Jtcy9wcm9kdWN0cy9nZW1pbmkvZ2VtaW5pLXNwcmluZy1jbGVhbmluZy10aXBzLw",
       "title": "8 Gemini tips for organizing your space (and life)",
       "summary": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
@@ -234,19 +208,6 @@
       "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
       "publishedAt": "2026-05-05T16:00:00.000Z",
-      "source": "Google AI",
-      "tier": "T1",
-      "sourceKind": "official",
-      "category": "industry",
-      "score": 80,
-      "related": []
-    },
-    {
-      "id": "R29vZ2xlIEFJOmh0dHBzOi8vYmxvZy5nb29nbGUvaW5ub3ZhdGlvbi1hbmQtYWkvdGVjaG5vbG9neS9haS9nb29nbGUtYWktdXBkYXRlcy1hcHJpbC0yMDI2Lw",
-      "title": "The latest AI news we announced in April 2026",
-      "summary": "Here are Google’s latest AI updates from April 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "publishedAt": "2026-05-04T17:00:00.000Z",
       "source": "Google AI",
       "tier": "T1",
       "sourceKind": "official",
@@ -320,16 +281,42 @@
       "related": []
     },
     {
-      "id": "R2l0SHViIEFJICYgTUw6aHR0cHM6Ly9naXRodWIuYmxvZy9haS1hbmQtbWwvZ2VuZXJhdGl2ZS1haS92YWxpZGF0aW5nLWFnZW50aWMtYmVoYXZpb3Itd2hlbi1jb3JyZWN0LWlzbnQtZGV0ZXJtaW5pc3RpYy8",
-      "title": "Validating agentic behavior when “correct” isn’t deterministic",
+      "id": "R2l0SHViIEFJICYgTUw6aHR0cHM6Ly9naXRodWIuYmxvZy9haS1hbmQtbWwvZ2l0aHViLWNvcGlsb3QvaW1wcm92aW5nLXRva2VuLWVmZmljaWVuY3ktaW4tZ2l0aHViLWFnZW50aWMtd29ya2Zsb3dzLw",
+      "title": "Improving token efficiency in GitHub Agentic Workflows",
       "summary": "",
-      "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
-      "publishedAt": "2026-05-06T21:16:31.000Z",
+      "url": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
+      "publishedAt": "2026-05-07T23:00:00.000Z",
       "source": "GitHub AI & ML",
       "tier": "T1.5",
       "sourceKind": "platform",
       "category": "product",
       "score": 78,
+      "related": []
+    },
+    {
+      "id": "R2l0SHViIEFJICYgTUw6aHR0cHM6Ly9naXRodWIuYmxvZy9haS1hbmQtbWwvZ2VuZXJhdGl2ZS1haS9hZ2VudC1wdWxsLXJlcXVlc3RzLWFyZS1ldmVyeXdoZXJlLWhlcmVzLWhvdy10by1yZXZpZXctdGhlbS8",
+      "title": "Agent pull requests are everywhere. Here&#8217;s how to review them.",
+      "summary": "",
+      "url": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
+      "publishedAt": "2026-05-07T19:00:00.000Z",
+      "source": "GitHub AI & ML",
+      "tier": "T1.5",
+      "sourceKind": "platform",
+      "category": "product",
+      "score": 78,
+      "related": []
+    },
+    {
+      "id": "R29vZ2xlIEFJOmh0dHBzOi8vYmxvZy5nb29nbGUvaW5ub3ZhdGlvbi1hbmQtYWkvdGVjaG5vbG9neS9haS9nb29nbGUtYWktdXBkYXRlcy1hcHJpbC0yMDI2Lw",
+      "title": "The latest AI news we announced in April 2026",
+      "summary": "Here are Google’s latest AI updates from April 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "publishedAt": "2026-05-04T17:00:00.000Z",
+      "source": "Google AI",
+      "tier": "T1",
+      "sourceKind": "official",
+      "category": "industry",
+      "score": 77,
       "related": []
     },
     {
@@ -411,12 +398,12 @@
       "related": []
     },
     {
-      "id": "SHVnZ2luZyBGYWNlIEJsb2c6aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL1NlcnZpY2VOb3ctQUkvY29ycmVjdG5lc3MtYmVmb3JlLWNvcnJlY3Rpb25z",
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "id": "R2l0SHViIEFJICYgTUw6aHR0cHM6Ly9naXRodWIuYmxvZy9haS1hbmQtbWwvZ2VuZXJhdGl2ZS1haS92YWxpZGF0aW5nLWFnZW50aWMtYmVoYXZpb3Itd2hlbi1jb3JyZWN0LWlzbnQtZGV0ZXJtaW5pc3RpYy8",
+      "title": "Validating agentic behavior when “correct” isn’t deterministic",
       "summary": "",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "publishedAt": "2026-05-06T19:06:55.000Z",
-      "source": "Hugging Face Blog",
+      "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
+      "publishedAt": "2026-05-06T21:16:31.000Z",
+      "source": "GitHub AI & ML",
       "tier": "T1.5",
       "sourceKind": "platform",
       "category": "product",
@@ -437,11 +424,11 @@
       "related": []
     },
     {
-      "id": "SHVnZ2luZyBGYWNlIEJsb2c6aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL29wZW4tYXNyLWxlYWRlcmJvYXJkLXByaXZhdGUtZGF0YQ",
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "id": "SHVnZ2luZyBGYWNlIEJsb2c6aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL1NlcnZpY2VOb3ctQUkvY29ycmVjdG5lc3MtYmVmb3JlLWNvcnJlY3Rpb25z",
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
       "summary": "",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "publishedAt": "2026-05-06T00:00:00.000Z",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "publishedAt": "2026-05-06T19:06:55.000Z",
       "source": "Hugging Face Blog",
       "tier": "T1.5",
       "sourceKind": "platform",
@@ -486,6 +473,19 @@
       "sourceKind": "platform",
       "category": "model",
       "score": 70,
+      "related": []
+    },
+    {
+      "id": "SHVnZ2luZyBGYWNlIEJsb2c6aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL29wZW4tYXNyLWxlYWRlcmJvYXJkLXByaXZhdGUtZGF0YQ",
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "summary": "",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "publishedAt": "2026-05-06T00:00:00.000Z",
+      "source": "Hugging Face Blog",
+      "tier": "T1.5",
+      "sourceKind": "platform",
+      "category": "product",
+      "score": 69,
       "related": []
     },
     {
@@ -725,19 +725,6 @@
       "related": []
     },
     {
-      "id": "SHVnZ2luZyBGYWNlIEJsb2c6aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL2xhYmxhYi1haS1hbWQtZGV2ZWxvcGVyLWhhY2thdGhvbi9jeWJlcnNlY3F3ZW4tNGI",
-      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-      "summary": "",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-      "publishedAt": "2026-05-08T17:41:05.000Z",
-      "source": "Hugging Face Blog",
-      "tier": "T1.5",
-      "sourceKind": "platform",
-      "category": "model",
-      "score": 86,
-      "related": []
-    },
-    {
       "id": "R29vZ2xlIEFJOmh0dHBzOi8vYmxvZy5nb29nbGUvaW5ub3ZhdGlvbi1hbmQtYWkvdGVjaG5vbG9neS9kZXZlbG9wZXJzLXRvb2xzL2V2ZW50LWRyaXZlbi13ZWJob29rcy8",
       "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
       "summary": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
@@ -790,6 +777,19 @@
       "related": []
     },
     {
+      "id": "SHVnZ2luZyBGYWNlIEJsb2c6aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL2xhYmxhYi1haS1hbWQtZGV2ZWxvcGVyLWhhY2thdGhvbi9vbmNvYWdlbnQtb2ZmaWNpYWwtcGFwZXI",
+      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "summary": "",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "publishedAt": "2026-05-09T18:09:28.000Z",
+      "source": "Hugging Face Blog",
+      "tier": "T1.5",
+      "sourceKind": "platform",
+      "category": "product",
+      "score": 84,
+      "related": []
+    },
+    {
       "id": "R29vZ2xlIEFJOmh0dHBzOi8vYmxvZy5nb29nbGUvaW5ub3ZhdGlvbi1hbmQtYWkvcHJvZHVjdHMvZ2VtaW5pLWFwcC9wZXJzb25hbC1pbnRlbGxpZ2VuY2UtbmFuby1iYW5hbmEv",
       "title": "New ways to create personalized images in the Gemini app",
       "summary": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.",
@@ -829,32 +829,6 @@
       "related": []
     },
     {
-      "id": "R2l0SHViIEFJICYgTUw6aHR0cHM6Ly9naXRodWIuYmxvZy9haS1hbmQtbWwvZ2l0aHViLWNvcGlsb3QvaW1wcm92aW5nLXRva2VuLWVmZmljaWVuY3ktaW4tZ2l0aHViLWFnZW50aWMtd29ya2Zsb3dzLw",
-      "title": "Improving token efficiency in GitHub Agentic Workflows",
-      "summary": "",
-      "url": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
-      "publishedAt": "2026-05-07T23:00:00.000Z",
-      "source": "GitHub AI & ML",
-      "tier": "T1.5",
-      "sourceKind": "platform",
-      "category": "product",
-      "score": 81,
-      "related": []
-    },
-    {
-      "id": "R2l0SHViIEFJICYgTUw6aHR0cHM6Ly9naXRodWIuYmxvZy9haS1hbmQtbWwvZ2VuZXJhdGl2ZS1haS9hZ2VudC1wdWxsLXJlcXVlc3RzLWFyZS1ldmVyeXdoZXJlLWhlcmVzLWhvdy10by1yZXZpZXctdGhlbS8",
-      "title": "Agent pull requests are everywhere. Here&#8217;s how to review them.",
-      "summary": "",
-      "url": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
-      "publishedAt": "2026-05-07T19:00:00.000Z",
-      "source": "GitHub AI & ML",
-      "tier": "T1.5",
-      "sourceKind": "platform",
-      "category": "product",
-      "score": 81,
-      "related": []
-    },
-    {
       "id": "R29vZ2xlIEFJOmh0dHBzOi8vYmxvZy5nb29nbGUvcHJvZHVjdHMtYW5kLXBsYXRmb3Jtcy9wcm9kdWN0cy9nZW1pbmkvZ2VtaW5pLXNwcmluZy1jbGVhbmluZy10aXBzLw",
       "title": "8 Gemini tips for organizing your space (and life)",
       "summary": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
@@ -886,19 +860,6 @@
       "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
       "publishedAt": "2026-05-05T16:00:00.000Z",
-      "source": "Google AI",
-      "tier": "T1",
-      "sourceKind": "official",
-      "category": "industry",
-      "score": 80,
-      "related": []
-    },
-    {
-      "id": "R29vZ2xlIEFJOmh0dHBzOi8vYmxvZy5nb29nbGUvaW5ub3ZhdGlvbi1hbmQtYWkvdGVjaG5vbG9neS9haS9nb29nbGUtYWktdXBkYXRlcy1hcHJpbC0yMDI2Lw",
-      "title": "The latest AI news we announced in April 2026",
-      "summary": "Here are Google’s latest AI updates from April 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "publishedAt": "2026-05-04T17:00:00.000Z",
       "source": "Google AI",
       "tier": "T1",
       "sourceKind": "official",
@@ -972,16 +933,42 @@
       "related": []
     },
     {
-      "id": "R2l0SHViIEFJICYgTUw6aHR0cHM6Ly9naXRodWIuYmxvZy9haS1hbmQtbWwvZ2VuZXJhdGl2ZS1haS92YWxpZGF0aW5nLWFnZW50aWMtYmVoYXZpb3Itd2hlbi1jb3JyZWN0LWlzbnQtZGV0ZXJtaW5pc3RpYy8",
-      "title": "Validating agentic behavior when “correct” isn’t deterministic",
+      "id": "R2l0SHViIEFJICYgTUw6aHR0cHM6Ly9naXRodWIuYmxvZy9haS1hbmQtbWwvZ2l0aHViLWNvcGlsb3QvaW1wcm92aW5nLXRva2VuLWVmZmljaWVuY3ktaW4tZ2l0aHViLWFnZW50aWMtd29ya2Zsb3dzLw",
+      "title": "Improving token efficiency in GitHub Agentic Workflows",
       "summary": "",
-      "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
-      "publishedAt": "2026-05-06T21:16:31.000Z",
+      "url": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
+      "publishedAt": "2026-05-07T23:00:00.000Z",
       "source": "GitHub AI & ML",
       "tier": "T1.5",
       "sourceKind": "platform",
       "category": "product",
       "score": 78,
+      "related": []
+    },
+    {
+      "id": "R2l0SHViIEFJICYgTUw6aHR0cHM6Ly9naXRodWIuYmxvZy9haS1hbmQtbWwvZ2VuZXJhdGl2ZS1haS9hZ2VudC1wdWxsLXJlcXVlc3RzLWFyZS1ldmVyeXdoZXJlLWhlcmVzLWhvdy10by1yZXZpZXctdGhlbS8",
+      "title": "Agent pull requests are everywhere. Here&#8217;s how to review them.",
+      "summary": "",
+      "url": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
+      "publishedAt": "2026-05-07T19:00:00.000Z",
+      "source": "GitHub AI & ML",
+      "tier": "T1.5",
+      "sourceKind": "platform",
+      "category": "product",
+      "score": 78,
+      "related": []
+    },
+    {
+      "id": "R29vZ2xlIEFJOmh0dHBzOi8vYmxvZy5nb29nbGUvaW5ub3ZhdGlvbi1hbmQtYWkvdGVjaG5vbG9neS9haS9nb29nbGUtYWktdXBkYXRlcy1hcHJpbC0yMDI2Lw",
+      "title": "The latest AI news we announced in April 2026",
+      "summary": "Here are Google’s latest AI updates from April 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "publishedAt": "2026-05-04T17:00:00.000Z",
+      "source": "Google AI",
+      "tier": "T1",
+      "sourceKind": "official",
+      "category": "industry",
+      "score": 77,
       "related": []
     },
     {
@@ -1063,12 +1050,12 @@
       "related": []
     },
     {
-      "id": "SHVnZ2luZyBGYWNlIEJsb2c6aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL1NlcnZpY2VOb3ctQUkvY29ycmVjdG5lc3MtYmVmb3JlLWNvcnJlY3Rpb25z",
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "id": "R2l0SHViIEFJICYgTUw6aHR0cHM6Ly9naXRodWIuYmxvZy9haS1hbmQtbWwvZ2VuZXJhdGl2ZS1haS92YWxpZGF0aW5nLWFnZW50aWMtYmVoYXZpb3Itd2hlbi1jb3JyZWN0LWlzbnQtZGV0ZXJtaW5pc3RpYy8",
+      "title": "Validating agentic behavior when “correct” isn’t deterministic",
       "summary": "",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "publishedAt": "2026-05-06T19:06:55.000Z",
-      "source": "Hugging Face Blog",
+      "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
+      "publishedAt": "2026-05-06T21:16:31.000Z",
+      "source": "GitHub AI & ML",
       "tier": "T1.5",
       "sourceKind": "platform",
       "category": "product",
@@ -1089,11 +1076,11 @@
       "related": []
     },
     {
-      "id": "SHVnZ2luZyBGYWNlIEJsb2c6aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL29wZW4tYXNyLWxlYWRlcmJvYXJkLXByaXZhdGUtZGF0YQ",
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "id": "SHVnZ2luZyBGYWNlIEJsb2c6aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL1NlcnZpY2VOb3ctQUkvY29ycmVjdG5lc3MtYmVmb3JlLWNvcnJlY3Rpb25z",
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
       "summary": "",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "publishedAt": "2026-05-06T00:00:00.000Z",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "publishedAt": "2026-05-06T19:06:55.000Z",
       "source": "Hugging Face Blog",
       "tier": "T1.5",
       "sourceKind": "platform",
@@ -1141,6 +1128,19 @@
       "related": []
     },
     {
+      "id": "SHVnZ2luZyBGYWNlIEJsb2c6aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL29wZW4tYXNyLWxlYWRlcmJvYXJkLXByaXZhdGUtZGF0YQ",
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "summary": "",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "publishedAt": "2026-05-06T00:00:00.000Z",
+      "source": "Hugging Face Blog",
+      "tier": "T1.5",
+      "sourceKind": "platform",
+      "category": "product",
+      "score": 69,
+      "related": []
+    },
+    {
       "id": "SHVnZ2luZyBGYWNlIEJsb2c6aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL29wZW5haS1wcml2YWN5LWZpbHRlci13ZWItYXBwcw",
       "title": "How to build scalable web apps with OpenAI's Privacy Filter",
       "summary": "",
@@ -1185,19 +1185,6 @@
           "related": []
         },
         {
-          "id": "SHVnZ2luZyBGYWNlIEJsb2c6aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL2xhYmxhYi1haS1hbWQtZGV2ZWxvcGVyLWhhY2thdGhvbi9jeWJlcnNlY3F3ZW4tNGI",
-          "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-          "summary": "",
-          "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-          "publishedAt": "2026-05-08T17:41:05.000Z",
-          "source": "Hugging Face Blog",
-          "tier": "T1.5",
-          "sourceKind": "platform",
-          "category": "model",
-          "score": 86,
-          "related": []
-        },
-        {
           "id": "R29vZ2xlIEFJOmh0dHBzOi8vYmxvZy5nb29nbGUvaW5ub3ZhdGlvbi1hbmQtYWkvdGVjaG5vbG9neS9kZXZlbG9wZXJzLXRvb2xzL2V2ZW50LWRyaXZlbi13ZWJob29rcy8",
           "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
           "summary": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
@@ -1234,6 +1221,19 @@
           "sourceKind": "official",
           "category": "model",
           "score": 84,
+          "related": []
+        },
+        {
+          "id": "R29vZ2xlIEFJOmh0dHBzOi8vYmxvZy5nb29nbGUvcHJvZHVjdHMtYW5kLXBsYXRmb3Jtcy9wcm9kdWN0cy9nZW1pbmkvZ2VtaW5pLXNwcmluZy1jbGVhbmluZy10aXBzLw",
+          "title": "8 Gemini tips for organizing your space (and life)",
+          "summary": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+          "publishedAt": "2026-04-24T19:00:00.000Z",
+          "source": "Google AI",
+          "tier": "T1",
+          "sourceKind": "official",
+          "category": "model",
+          "score": 81,
           "related": []
         }
       ]
@@ -1294,16 +1294,16 @@
           "related": []
         },
         {
-          "id": "R2l0SHViIEFJICYgTUw6aHR0cHM6Ly9naXRodWIuYmxvZy9haS1hbmQtbWwvZ2l0aHViLWNvcGlsb3QvaW1wcm92aW5nLXRva2VuLWVmZmljaWVuY3ktaW4tZ2l0aHViLWFnZW50aWMtd29ya2Zsb3dzLw",
-          "title": "Improving token efficiency in GitHub Agentic Workflows",
+          "id": "SHVnZ2luZyBGYWNlIEJsb2c6aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL2xhYmxhYi1haS1hbWQtZGV2ZWxvcGVyLWhhY2thdGhvbi9vbmNvYWdlbnQtb2ZmaWNpYWwtcGFwZXI",
+          "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
           "summary": "",
-          "url": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
-          "publishedAt": "2026-05-07T23:00:00.000Z",
-          "source": "GitHub AI & ML",
+          "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+          "publishedAt": "2026-05-09T18:09:28.000Z",
+          "source": "Hugging Face Blog",
           "tier": "T1.5",
           "sourceKind": "platform",
           "category": "product",
-          "score": 81,
+          "score": 84,
           "related": []
         }
       ]
@@ -1338,19 +1338,6 @@
           "related": []
         },
         {
-          "id": "R29vZ2xlIEFJOmh0dHBzOi8vYmxvZy5nb29nbGUvaW5ub3ZhdGlvbi1hbmQtYWkvdGVjaG5vbG9neS9haS9nb29nbGUtYWktdXBkYXRlcy1hcHJpbC0yMDI2Lw",
-          "title": "The latest AI news we announced in April 2026",
-          "summary": "Here are Google’s latest AI updates from April 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-          "publishedAt": "2026-05-04T17:00:00.000Z",
-          "source": "Google AI",
-          "tier": "T1",
-          "sourceKind": "official",
-          "category": "industry",
-          "score": 80,
-          "related": []
-        },
-        {
           "id": "R29vZ2xlIEFJOmh0dHBzOi8vYmxvZy5nb29nbGUvaW5ub3ZhdGlvbi1hbmQtYWkvaW5mcmFzdHJ1Y3R1cmUtYW5kLWNsb3VkL2dvb2dsZS1jbG91ZC93aGF0LWlzLWEtdHB1Lw",
           "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
           "summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
@@ -1374,6 +1361,19 @@
           "sourceKind": "official",
           "category": "industry",
           "score": 79,
+          "related": []
+        },
+        {
+          "id": "R29vZ2xlIEFJOmh0dHBzOi8vYmxvZy5nb29nbGUvaW5ub3ZhdGlvbi1hbmQtYWkvdGVjaG5vbG9neS9haS9nb29nbGUtYWktdXBkYXRlcy1hcHJpbC0yMDI2Lw",
+          "title": "The latest AI news we announced in April 2026",
+          "summary": "Here are Google’s latest AI updates from April 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+          "publishedAt": "2026-05-04T17:00:00.000Z",
+          "source": "Google AI",
+          "tier": "T1",
+          "sourceKind": "official",
+          "category": "industry",
+          "score": 77,
           "related": []
         }
       ]
