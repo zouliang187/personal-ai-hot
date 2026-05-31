@@ -1,7 +1,16 @@
 {
   "name": "personal-ai-hot",
   "version": "0.1.0",
-  "private": true,
+  "description": "A transparent, static AI news curation site powered by RSS sources and explainable scoring rules.",
+  "license": "MIT",
+  "homepage": "https://zouliang187.github.io/personal-ai-hot/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zouliang187/personal-ai-hot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zouliang187/personal-ai-hot/issues"
+  },
   "type": "module",
   "scripts": {
     "update": "node scripts/update-news.mjs",
